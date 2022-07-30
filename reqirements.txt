@@ -1,0 +1,4 @@
+pathlib
+requests
+shodan
+ttkbootstrap
