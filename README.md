@@ -30,3 +30,5 @@
 ![Untitled 1.png](https://s2.loli.net/2022/07/31/3XiY5pgnARJUIur.png)
 
 > 目前该项目已包含**fofa**和**shodan**两种空间测绘
+
+### 本项目不会再更新，如有需要，可以联系作者
